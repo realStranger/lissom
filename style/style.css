@@ -210,6 +210,7 @@ a
     text-align:center;
     height:100%;
     width:100%;
+    overflow: hidden;
 }
 
 .sourceWrapUnder
@@ -555,6 +556,7 @@ position: absolute;
     background:none;
     /* opacity:0; */
     transition:1s;
+    overflow:hidden;
 }
 
 .tourBack
@@ -563,7 +565,7 @@ position: absolute;
     z-index:-1;
     transition:1s;
     opacity:0;
-    min-width:100%;
+    width:100%;
     min-height:100%;
 }
 
