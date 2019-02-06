@@ -1112,11 +1112,11 @@ position: absolute;
     }
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait)
+/* @media screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait)
 {
     body
     {
         overflow:hidden;
 	    display:none;
     }
-}
+} */
