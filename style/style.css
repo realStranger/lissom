@@ -1067,8 +1067,7 @@ position: absolute;
 
     body
     {
-        overflow-y: visible;
-        overflow-x: hidden;
+        
     }
 
     .authorsImg
@@ -1108,6 +1107,6 @@ position: absolute;
 {
     body
     {
-        overflow:hidden;
+        
     }
 }
