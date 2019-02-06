@@ -1109,6 +1109,7 @@ position: absolute;
     body
     {
         overflow:hidden;
+	    display:none;
     }
 }
 
